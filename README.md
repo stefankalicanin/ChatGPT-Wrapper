@@ -1,1 +1,1 @@
-# ChatGPT-Wrapper
+# chatgpt-wrapper
